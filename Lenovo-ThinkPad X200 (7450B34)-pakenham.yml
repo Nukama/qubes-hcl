@@ -10,7 +10,7 @@ iommu:
 tpm:
   'partial'
 brand: |
-  LENOVO
+  Lenovo
 model: |
   ThinkPad X200 (7450B34)
 bios: |
