@@ -1,0 +1,55 @@
+---
+layout:
+  'hcl'
+type:
+  'laptop'
+hvm:
+  'yes'
+iommu:
+  'yes'
+tpm:
+  ''
+brand: |
+  Dell
+model: |
+  Latitude E6430
+bios: |
+  A11
+cpu: |
+  
+cpu-short: |
+  i5-3340M
+chipset: |
+  
+chipset-short: |
+  Ivy Bridge
+gpu: |
+  
+gpu-short: |
+  HD graphics
+network: |
+  
+memory: |
+  
+scsi: |
+  
+
+versions:
+
+- works:
+    'yes'
+  qubes: |
+    R2
+  xen: |
+    
+  kernel: |
+    3.12.23-1
+  remark: |
+    The optional nVidia Optimus VGA is (still) not working.
+  credit: |
+    Zrubi
+  link: |
+    https://groups.google.com/d/msg/qubes-users/sfV4-pMWrBY/qiHlnnza9a0J
+
+---
+
