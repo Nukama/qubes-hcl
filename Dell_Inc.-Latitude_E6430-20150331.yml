@@ -1,31 +1,31 @@
 ---
-layout:	|
+layout:
   'hcl'
-brand:  |
+brand:
   'Dell Inc.'
-model:  |
+model:
   'Latitude E6430'
-type:  |
+type:
   'laptop'
-bios:  |
+bios:
   'A11'
-memory:  |
+memory:
   '8065'
-hvm:  |
+hvm:
   'yes'
-iommu:  |
+iommu:
   'yes'
-tpm:  |
+tpm:
   'unknown'
-cpu-short:  |
+cpu-short:
   'FIXME'
 cpu:  |
   Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
-chipset-sort:  |
+chipset-sort:
   'FIXME'
 chipset:  |
   Intel Corporation 3rd Gen Core processor DRAM Controller [8086:0154] (rev 09)
-gpu-short:  |
+gpu-short:
   'FIXME'
 gpu:  |
   Intel Corporation 3rd Gen Core processor Graphics Controller [8086:0166] (rev 09) (prog-if 00 [VGA controller])
@@ -39,13 +39,13 @@ scsi:  |
 
 versions:
 
-- works:  |
+- works:
     'yes'
-  qubes:  |
+  qubes:
     'R2'
-  xen:  |
+  xen:
     '4.1.6.1'
-  kernel:  |
+  kernel:
     '3.12.38-1'
   remark:  |
     FIXME
