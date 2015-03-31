@@ -4,7 +4,7 @@ brand:  'Dell Inc.'
 model:  'Latitude E6430'
 type:  'laptop'
 bios:  'A11'
-ram:  '8065'
+memory:  '8065'
 hvm:  'yes'
 iommu:  'yes'
 tpm:  'unknown'
@@ -30,7 +30,7 @@ versions:
 - qubes:  'R2'
   xen:  '4.1.6.1'
   kernel:  '3.12.38-1'
-  works:  'FIXME'
+  works:  'yes'
   remark:  |
     FIXME
   credit:  |
