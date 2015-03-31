@@ -10,9 +10,9 @@ iommu:
 tpm:
   ''
 brand: |
-  Dell Inc.
+  Test Inc.
 model: |
-  Latitude E6430
+  T E6430
 bios: |
   A11
 cpu: |
