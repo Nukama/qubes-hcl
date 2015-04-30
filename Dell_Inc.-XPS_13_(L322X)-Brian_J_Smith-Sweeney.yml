@@ -4,29 +4,29 @@ layout:
 type:
   'laptop'
 hvm:
-  'no'
+  'yes'
 iommu:
   'no'
 tpm:
   ''
 brand: |
-  ASUS
+  Dell
 model: |
-  X55A
+  XPS 13 (L322X)
 bios: |
-  
+  A09
 cpu: |
   
 cpu-short: |
-  
+  i7-3537U
 chipset: |
   
 chipset-short: |
-  
+  Ivy Bridge
 gpu: |
   
 gpu-short: |
-  
+  HD Graphics
 network: |
   
 memory: |
@@ -45,11 +45,11 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/2csjvHia9Rw/discussion'><span class='icon'></span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/21kqNBzJLPw/discussion'><span class='icon'></span>read more</a>
   credit: |
-    Zrubi
+    Brian J Smith-Sweeney
   link: |
-    https://groups.google.com/d/msg/qubes-devel/2csjvHia9Rw/NRsqR0g6wIMJ
+    https://groups.google.com/d/msg/qubes-users/21kqNBzJLPw/e74SMRweTMsJ
 
 ---
 

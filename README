@@ -1,18 +1,20 @@
+Template for reports:
+
 ---
 layout:
   'hcl'
 type:
-  'laptop'
+  'laptop|desktop|workstation|server|motherboard'
 hvm:
-  'no'
+  'yes|no|partial'
 iommu:
-  'no'
+  'yes|no|partial'
 tpm:
-  ''
+  'yes|no|partial'
 brand: |
-  ASUS
+  
 model: |
-  X55A
+  
 bios: |
   
 cpu: |
@@ -37,19 +39,19 @@ scsi: |
 versions:
 
 - works:
-    'no'
+    'yes|no|partial'
   qubes: |
-    R2B2
+    
   xen: |
     
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/2csjvHia9Rw/discussion'><span class='icon'></span>read more</a>
+    
   credit: |
-    Zrubi
+    FIXAUTHOR
   link: |
-    https://groups.google.com/d/msg/qubes-devel/2csjvHia9Rw/NRsqR0g6wIMJ
+    FIXLINK
 
 ---
 

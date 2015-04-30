@@ -4,15 +4,15 @@ layout:
 type:
   'laptop'
 hvm:
-  'no'
+  ''
 iommu:
-  'no'
+  'yes'
 tpm:
   ''
 brand: |
-  ASUS
+  Dell
 model: |
-  X55A
+  Latitude 5520
 bios: |
   
 cpu: |
@@ -37,19 +37,19 @@ scsi: |
 versions:
 
 - works:
-    'no'
+    'yes'
   qubes: |
-    R2B2
+    R1
   xen: |
     
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/2csjvHia9Rw/discussion'><span class='icon'></span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/group/qubes-devel/msg/7418e7084c2de99f?hl=en'><span class='icon'></span>read more</a>
   credit: |
-    Zrubi
+    Erik Edin
   link: |
-    https://groups.google.com/d/msg/qubes-devel/2csjvHia9Rw/NRsqR0g6wIMJ
+    https://groups.google.com/group/qubes-devel/msg/7418e7084c2de99f?hl=en
 
 ---
 

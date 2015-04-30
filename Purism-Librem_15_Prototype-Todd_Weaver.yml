@@ -4,29 +4,29 @@ layout:
 type:
   'laptop'
 hvm:
-  'no'
+  'yes'
 iommu:
   'no'
 tpm:
   ''
 brand: |
-  ASUS
+  Purism
 model: |
-  X55A
+  Librem 15
 bios: |
   
 cpu: |
   
 cpu-short: |
-  
+  i7-4712MQ
 chipset: |
   
 chipset-short: |
-  
+  HM87
 gpu: |
   
 gpu-short: |
-  
+  NVIDIA GT840M
 network: |
   
 memory: |
@@ -37,19 +37,20 @@ scsi: |
 versions:
 
 - works:
-    'no'
+    ''
   qubes: |
-    R2B2
+    
   xen: |
     
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/2csjvHia9Rw/discussion'><span class='icon'></span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-users/WX1IXBFkUwk/M-Xg1e3kieMJ'><span class='icon'></span>read more</a>
   credit: |
-    Zrubi
+    Todd Weaver
   link: |
-    https://groups.google.com/d/msg/qubes-devel/2csjvHia9Rw/NRsqR0g6wIMJ
+    https://www.crowdsupply.com/purism/librem-laptop
 
 ---
+
 
